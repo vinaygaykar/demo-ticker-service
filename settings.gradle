@@ -1,0 +1,6 @@
+rootProject.name = 'demo-ticker-service'
+
+include 'ticker-mvc-service'
+include 'ticker-reactive-service'
+include 'commons'
+
